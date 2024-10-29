@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/music-of-the-silence/skillSwapApp.git"
+    "url": "git+https://github.com/music-of-the-silence/skillSwap.git"
   },
   "author": "Chandan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/music-of-the-silence/skillSwapApp/issues"
+    "url": "https://github.com/music-of-the-silence/skillSwap/issues"
   },
-  "homepage": "https://github.com/music-of-the-silence/skillSwapApp#readme",
+  "homepage": "https://github.com/music-of-the-silence/skillSwap#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
